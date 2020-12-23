@@ -7,7 +7,7 @@ class stone
         {
             isStatic:false,
             restitution:0,
-            friction:1,
+            friction:1.1,
             density:1.2
         }
 
